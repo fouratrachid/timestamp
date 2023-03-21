@@ -32,13 +32,6 @@ GET https://your-app-url.com/api/1616336752097
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-
 
 Clone the repository:
 ```
@@ -48,7 +41,7 @@ git clone https://github.com/fouratrachid/timestamp-microservice.git
 Install dependencies
 
 ```bash
-  npm install
+  npm install express 
 ```
 Go to the project directory
 
