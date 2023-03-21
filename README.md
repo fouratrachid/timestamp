@@ -35,7 +35,7 @@ GET https://your-app-url.com/api/1616336752097
 
 Clone the repository:
 ```
-git clone https://github.com/fouratrachid/timestamp-microservice.git
+  git clone https://github.com/fouratrachid/timestamp-microservice.git
 ```
 
 Install dependencies
