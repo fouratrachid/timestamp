@@ -3,7 +3,7 @@ var express = require("express");
 var app = express();
 const port = process.env.PORT || 8000;
 
-// your first API endpoint...
+//  first API endpoint...
 app.get("/api/hello", function (req, res) {
   res.json({ greeting: "hello API" });
 });
