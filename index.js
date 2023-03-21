@@ -51,5 +51,5 @@ app.get("/api/:time", (req, res) => {
 
 // listen for requests :)
 var listener = app.listen(port, function () {
-  console.log("Your app is listening on port " + listener.address().port);
+  console.log("Your app is listening on port " + port);
 });
