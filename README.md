@@ -62,5 +62,5 @@ Start the server
 ```
 ## Author 
 
-- This project was created by your [@Fourat Rachid](https://github.com/fouratrachid) as part of the [@freeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/timestamp-microservice ) curriculum.
+- This project was created by [@Fourat Rachid](https://github.com/fouratrachid) as part of the [@freeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/timestamp-microservice ) curriculum.
 
